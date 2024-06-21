@@ -1,0 +1,5 @@
+sqlalchemy
+langchain
+openai
+chromadb
+python-dotenv
